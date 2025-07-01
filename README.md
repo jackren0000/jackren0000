@@ -7,3 +7,5 @@
 🤝 Open to collaborating on anything that sparks curiosity—let’s build something cool together.
 
 📬 Reach me: sihanren409@gmail.com
+
+[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackren0000)](https://github.com/anuraghazra/github-readme-stats)
